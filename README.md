@@ -7,7 +7,7 @@ Use them to protect yourself from the danger when the night monster comes.
 Be careful and build your own Goose Island!
 
 # How to run:
-Open the goose island folder with VS Code. Run the main file called 'main.py'. 
+Open the goose island codebase folder with VS Code. Run the main file called 'main.py'. 
 
 # No libraries needed to be installed
 
